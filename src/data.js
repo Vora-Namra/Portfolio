@@ -14,7 +14,7 @@ export const PROFILE = {
   },
   photo: '/assets/Namra-Vora-portrait.png',
   // Add the real PDF at this path to enable the resume download button.
-  resume: null,
+  resume: '/assets/Namra_Vora-CV.pdf',
 };
 
 export const SUMMARY = 'Software Engineer with 10 months of production experience building backend systems and AI-powered applications. Works with Node.js, TypeScript, Java/Spring Boot, PostgreSQL and the Gemini API. Strong in REST APIs, database design, role-based access control, queues and background jobs, and clear technical documentation. Fast learner who enjoys solving real engineering problems.';
