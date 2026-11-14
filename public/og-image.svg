@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f0e6"/>
+  <path d="M0 0H1200V630H0Z" fill="none" stroke="#22324a" stroke-opacity=".12" stroke-width="2"/>
+  <g stroke="#22324a" stroke-opacity=".07" stroke-width="1">
+    <path d="M0 0V630"/><path d="M28 0V630"/><path d="M56 0V630"/><path d="M84 0V630"/><path d="M112 0V630"/><path d="M140 0V630"/><path d="M168 0V630"/><path d="M196 0V630"/><path d="M224 0V630"/><path d="M252 0V630"/><path d="M280 0V630"/><path d="M308 0V630"/><path d="M336 0V630"/><path d="M364 0V630"/><path d="M392 0V630"/><path d="M420 0V630"/><path d="M448 0V630"/><path d="M476 0V630"/><path d="M504 0V630"/><path d="M532 0V630"/><path d="M560 0V630"/><path d="M588 0V630"/><path d="M616 0V630"/><path d="M644 0V630"/><path d="M672 0V630"/><path d="M700 0V630"/><path d="M728 0V630"/><path d="M756 0V630"/><path d="M784 0V630"/><path d="M812 0V630"/><path d="M840 0V630"/><path d="M868 0V630"/><path d="M896 0V630"/><path d="M924 0V630"/><path d="M952 0V630"/><path d="M980 0V630"/><path d="M1008 0V630"/><path d="M1036 0V630"/><path d="M1064 0V630"/><path d="M1092 0V630"/><path d="M1120 0V630"/><path d="M1148 0V630"/><path d="M1176 0V630"/>
+    <path d="M0 0H1200"/><path d="M0 28H1200"/><path d="M0 56H1200"/><path d="M0 84H1200"/><path d="M0 112H1200"/><path d="M0 140H1200"/><path d="M0 168H1200"/><path d="M0 196H1200"/><path d="M0 224H1200"/><path d="M0 252H1200"/><path d="M0 280H1200"/><path d="M0 308H1200"/><path d="M0 336H1200"/><path d="M0 364H1200"/><path d="M0 392H1200"/><path d="M0 420H1200"/><path d="M0 448H1200"/><path d="M0 476H1200"/><path d="M0 504H1200"/><path d="M0 532H1200"/><path d="M0 560H1200"/><path d="M0 588H1200"/><path d="M0 616H1200"/>
+  </g>
+  <text x="90" y="112" fill="#258b55" font-family="monospace" font-size="22" letter-spacing="6">SOFTWARE ENGINEER · BACKEND · FULL-STACK · AI</text>
+  <text x="90" y="255" fill="#18283f" font-family="Georgia,serif" font-size="78" font-weight="bold">I build backends</text>
+  <text x="90" y="345" fill="#18283f" font-family="Georgia,serif" font-size="78" font-weight="bold">that hold up.</text>
+  <path d="M92 370Q300 345 510 367" fill="none" stroke="#35a267" stroke-width="9" stroke-linecap="round"/>
+  <text x="94" y="430" fill="#536782" font-family="Arial,sans-serif" font-size="28">AI features that actually work.</text>
+  <text x="94" y="540" fill="#536782" font-family="monospace" font-size="20" letter-spacing="4">NAMRA VORA · GUJARAT, INDIA</text>
+  <rect x="970" y="455" width="150" height="70" rx="18" fill="#18283f"/>
+  <text x="1045" y="501" text-anchor="middle" fill="#f4f0e6" font-family="Georgia,serif" font-size="38" font-weight="bold">NV</text>
+</svg>

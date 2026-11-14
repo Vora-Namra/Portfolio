@@ -12,7 +12,7 @@ export const PROFILE = {
     github: 'https://github.com/Vora-Namra',
     leetcode: 'https://leetcode.com/u/Namra_Vora',
   },
-  photo: '/assets/namra-portrait.png',
+  photo: '/assets/namra-portrait.webp',
   // Add the real PDF at this path to enable the resume download button.
   resume: null,
 };
