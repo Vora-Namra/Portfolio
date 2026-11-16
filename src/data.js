@@ -2,7 +2,7 @@ export const PROFILE = {
   name: 'Namra Vora',
   role: 'Software Engineer',
   headline: 'I build backends that hold up, and AI features that actually work.',
-  promise: 'Backend, Full-Stack and AI-application engineer. Node.js, TypeScript, Java/Spring Boot and the Gemini API.',
+  promise: 'Backend, Full-Stack and AI-application engineer. Node.js, TypeScript, PostgreSQL, Java/Spring Boot and the Database Design',
   status: 'Open to work, available immediately',
   location: 'Gujarat, India',
   email: 'voranamra625@gmail.com',
@@ -17,7 +17,7 @@ export const PROFILE = {
   resume: '/assets/Namra_Vora_CV.pdf',
 };
 
-export const SUMMARY = 'Software Engineer with 10 months of production experience building backend systems and AI-powered applications. Works with Node.js, TypeScript, Java/Spring Boot, PostgreSQL and the Gemini API. Strong in REST APIs, database design, role-based access control, queues and background jobs, and clear technical documentation. Fast learner who enjoys solving real engineering problems.';
+export const SUMMARY = 'Software Engineer with  hands-on production experience building backend systems and AI-powered applications. Works with Node.js, TypeScript, Java/Spring Boot, PostgreSQL and the Gemini API. Strong in REST APIs, database design, role-based access control, queues and background jobs, and clear technical documentation. Fast learner who enjoys solving real engineering problems.';
 
 export const PASSION = [
   'I like turning messy, real-world requirements into clean systems that stay reliable under load.',
@@ -36,7 +36,7 @@ export const EXPERIENCE = {
     'Optimized heavy course curriculum listing queries with database-level pagination and attribute projection, replacing unbounded table scans with bounded 10-record windows.',
     'Built database-driven email and notification templates sent through a queue (dictionary sync, course publish failure, subscription failure), with Admin alerting after 3 failed course publishes.',
   ],
-  tech: ['Node.js', 'TypeScript', 'PostgreSQL', 'Sequelize', 'Redis', 'RabbitMQ'],
+  tech: ['Node.js', 'TypeScript', 'PostgreSQL', 'Sequelize', 'Supabase','Redis', 'RabbitMQ','React.js','Stripe','Formik','Tailwind CSS'],
 };
 
 export const PROJECTS = [
@@ -145,7 +145,7 @@ export const ACHIEVEMENTS = [
 
 export const STATS = [
   { value: 10, suffix: '', label: 'Months in production' },
-  { value: 5, suffix: '', label: 'Projects' },
+  { value: 5+, suffix: '', label: 'Projects' },
   { value: 300, suffix: '+', label: 'LeetCode solved' },
   { value: 8.56, suffix: '', label: 'B.Tech CGPA', decimals: 2 },
 ];
