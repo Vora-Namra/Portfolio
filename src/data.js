@@ -145,7 +145,7 @@ export const ACHIEVEMENTS = [
 
 export const STATS = [
   { value: 10, suffix: '', label: 'Months in production' },
-  { value: 5+, suffix: '', label: 'Projects' },
+  { value: 'Multiple', suffix: '', label: 'Projects' },
   { value: 300, suffix: '+', label: 'LeetCode solved' },
   { value: 8.56, suffix: '', label: 'B.Tech CGPA', decimals: 2 },
 ];
